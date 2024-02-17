@@ -1,1 +1,3 @@
 # blog
+
+GitHub + Medium + Obsidian
