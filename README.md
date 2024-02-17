@@ -1,3 +1,4 @@
 # blog
 
-GitHub + Medium + Obsidian
+~~GitHub + Medium + Obsidian~~
+Velog + Obsidian
