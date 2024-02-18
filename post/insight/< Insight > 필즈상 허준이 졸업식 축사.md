@@ -1,7 +1,7 @@
 ---
 type: leaf
 created: 2024/02/18_00:52:40
-updated: 2024/02/18_14:10:07
+updated: 2024/02/18_19:20:27
 tags:
   - insight
   - 허준이

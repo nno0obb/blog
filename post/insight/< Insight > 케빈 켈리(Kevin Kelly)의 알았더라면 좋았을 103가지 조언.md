@@ -1,7 +1,7 @@
 ---
 type: leaf
 created: 2024/02/18_00:39:41
-updated: 2024/02/18_17:10:46
+updated: 2024/02/18_19:20:27
 tags:
   - insight
   - 케빈-켈리
