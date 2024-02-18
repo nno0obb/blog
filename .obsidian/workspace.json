@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d517398a93eb639f",
+        "id": "df55ae651bfccf49",
         "type": "tabs",
         "children": [
           {
-            "id": "621a2eb09492b71c",
+            "id": "555134f69af6dcd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/insight/가면 증후군 (Imposter Syndrome).md",
+                "file": "template/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "3ef5dfffaa3678e7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "post/insight/가면 증후군 (Imposter Syndrome).md",
+                "file": "template/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "post/insight/가면 증후군 (Imposter Syndrome).md",
+                "file": "template/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "post/insight/가면 증후군 (Imposter Syndrome).md"
+                "file": "template/index.md"
               }
             }
           }
@@ -146,23 +154,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "621a2eb09492b71c",
+  "active": "555134f69af6dcd6",
   "lastOpenFiles": [
-    "post/book/cse/기초부터 다지는 ElasticSearch 운영 노하우/📕 기초부터 다지는 ElasticSearch 운영 노하우.md",
+    "template/index.md",
+    "template/leaf.md",
+    "README.md",
+    "post/insight/가면 증후군 (Imposter Syndrome).md",
     "post/insight/한국인의 말과 행동에 감춰진 심리.md",
     "post/insight/필즈상 허준이 졸업식 축사.md",
     "post/insight/케빈 켈리의 알았더라면 좋았을 103가지 조언.md",
     "post/insight/오픈소스 기여하고 취뽀하기.md",
     "post/insight/메뉴 아이콘들의 진짜 이름.md",
-    "post/insight/가면 증후군 (Imposter Syndrome).md",
+    "post/insight/🌱 insight.md",
     "post/book/📚 book.md",
     "post/book/non-cse/❤️‍🩹 Non-CSE.md",
     "post/book/cse/💻 CSE.md",
-    "post/insight/🌱 insight.md",
+    "post/book/cse/기초부터 다지는 ElasticSearch 운영 노하우/📕 기초부터 다지는 ElasticSearch 운영 노하우.md",
+    "template",
+    "Spaces/Home/Untitled.md",
+    "Spaces/Home",
+    "Spaces",
     "2024-02-18.md",
     "Pasted image 20240218001851.png",
     "Untitled.md",
-    "README.md",
     "post/insight/( 유퀴즈 ) 한국인의 말과 행동에 감춰진 심리.md",
     "static/insight/( 유퀴즈 ) 한국인의 말과 행동에 감춰진 심리/1*hdfRTNNrV5zP3f7ud0nAiw.png",
     "asdf.md",
@@ -174,9 +188,6 @@
     "venv-blog/lib/python3.10/site-packages/requests_toolbelt-1.0.0.dist-info/METADATA",
     "venv-blog/lib/python3.10/site-packages/requests_toolbelt-1.0.0.dist-info/LICENSE",
     "venv-blog/lib/python3.10/site-packages/requests_toolbelt-1.0.0.dist-info/INSTALLER",
-    "venv-blog/lib/python3.10/site-packages/requests_toolbelt-1.0.0.dist-info/AUTHORS.rst",
-    "venv-blog/lib/python3.10/site-packages/requests_toolbelt-1.0.0.dist-info",
-    "venv-blog/lib/python3.10/site-packages/requests_toolbelt/utils/__pycache__/user_agent.cpython-310.pyc",
     "automation/test.png",
     "automation/82093514_p0.png",
     "venv-blog/lib/python3.10/site-packages/idna-3.6.dist-info/LICENSE.md",
@@ -184,9 +195,6 @@
     "post/kafka/kafka.md",
     "post/misc/misc.md",
     "post/redis/redis.md",
-    "post/rabbitmq/rabbitmq.md",
-    "post/post.md",
-    "post/misc/index_{{FOLDER_NAME}}.md",
-    "post/redis/_index_.md"
+    "post/rabbitmq/rabbitmq.md"
   ]
 }

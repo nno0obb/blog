@@ -1,0 +1,27 @@
+{
+  "dateFormat": "yyyy/MM/dd_HH:mm:ss",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "post/insight/가면 증후군 (Imposter Syndrome).md": "963e042ab71b1e9c2ac77926372976601b1a1f733233bb9fce2e0546cddd64a6",
+    "README.md": "11b58f5638c14e20099b15d981ee906147332fb0776bb60927c15a1dd8cbf59b",
+    "venv-blog/lib/python3.10/site-packages/idna-3.6.dist-info/LICENSE.md": "350c6bcc1ef700307ccc276092644d529ee138ca6582e83c93a125759bc78008",
+    "post/insight/🌱 insight.md": "4c3c686fd4c9f0f2b57dd7d3b40a20f21e37c2b88b3e6356be85b09cb679e8aa",
+    "post/insight/오픈소스 기여하고 취뽀하기.md": "30d6ca1e0f38b64c065244c682eb704ddfc3f100dca900d5d17793206c758fd6",
+    "post/insight/메뉴 아이콘들의 진짜 이름.md": "8b0d2ebfa9632390bb4d4e2f988f1cb8b19c7f583bd1450c3e0eaec6e924204f",
+    "post/insight/한국인의 말과 행동에 감춰진 심리.md": "644f671302208adc0927d6c24417f31f4d29b23f7e36da425ff9dcca51e7f0e1",
+    "post/insight/케빈 켈리의 알았더라면 좋았을 103가지 조언.md": "ee74cc97829e051b3ff08cf0ad154282d34f879f4d2db74fc664b99c5269c5b6",
+    "post/insight/필즈상 허준이 졸업식 축사.md": "f7d5d2fc0a1383296637d4560ff59bb3144314828c8f6926d2293c8124b6f793",
+    "post/book/📚 book.md": "b1beae86ababdf61a6fbad900e0b18b8bc8e5d781afdc05ad4764d42a746ae4f",
+    "post/book/non-cse/❤️‍🩹 Non-CSE.md": "f54fab2bb1e1f20c7fc1eb8c8108fc5fcc49692db144469b8f37a415cddba0d6",
+    "post/book/cse/기초부터 다지는 ElasticSearch 운영 노하우/📕 기초부터 다지는 ElasticSearch 운영 노하우.md": "eb92662056c4a9eb7ddbb31dae0a97fe7bdb75da8b7632ee9679c79eaf793096",
+    "post/book/cse/💻 CSE.md": "9dbf1accb687dee48348f5976ffda5c0de791eb1a718a67e26ff711a151d5159",
+    "template/index.md": "dbe1545270252127fdfe7a9c82c5fe72b224cca6fb4bac80e7d498580076b61e",
+    "template/leaf.md": "cb16518d2eb8d94ec485d8986441443b02505a32603194322d28ea48c618e07b"
+  }
+}

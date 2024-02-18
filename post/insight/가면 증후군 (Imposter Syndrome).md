@@ -1,12 +1,12 @@
 ---
+type: leaf
+created: 2024/02/17_22:59:04
+updated: 2024/02/18_14:08:51
 tags:
   - insight
   - 가면증후군
-aliases:
+post_url:
   - https://velog.io/@nno0obb/가면-증후군-Imposter-Syndrome
-created: 2024/02/18
-updated: 
-published: "True"
 ---
 
 - KPMG :: [心 Care - 과대평가 받고 있다는 부담감을 자기확신으로 바꾸기](https://kpmg.com/kr/ko/home/newsletter-channel/202302/mind-care.html)

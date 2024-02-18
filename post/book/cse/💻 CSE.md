@@ -1,8 +1,8 @@
 ---
-tags:
+type:
   - index
-created: 2024/02/18
-updated:
+created: 2024/02/18_01:01:13
+updated: 2024/02/18_14:07:16
 ---
 
 # Links
