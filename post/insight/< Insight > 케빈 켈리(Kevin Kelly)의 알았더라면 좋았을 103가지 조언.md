@@ -1,10 +1,10 @@
 ---
 type: leaf
 created: 2024/02/18_00:39:41
-updated: 2024/02/18_14:09:44
+updated: 2024/02/18_17:10:46
 tags:
   - insight
-  - 케빈켈리
+  - 케빈-켈리
 post_url:
   - https://velog.io/@nno0obb/케빈-켈리의-알았더라면-좋았을-103가지-조언
 ---
