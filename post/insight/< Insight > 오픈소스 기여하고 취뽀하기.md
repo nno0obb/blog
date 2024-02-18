@@ -1,7 +1,7 @@
 ---
 type: leaf
 created: 2024/02/18_00:21:01
-updated: 2024/02/18_19:20:27
+updated: 2024/02/18_19:23:33
 tags:
   - insight
   - 오픈소스

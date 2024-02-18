@@ -1,7 +1,7 @@
 ---
 type: leaf
 created: 2024/02/17_22:59:04
-updated: 2024/02/18_19:20:27
+updated: 2024/02/18_19:23:25
 tags:
   - insight
   - 가면증후군

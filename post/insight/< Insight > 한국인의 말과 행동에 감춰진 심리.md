@@ -1,7 +1,7 @@
 ---
 type: leaf
 created: 2024/02/18_14:23:11
-updated: 2024/02/18_19:20:27
+updated: 2024/02/18_19:23:41
 tags:
   - insight
   - 유퀴즈
