@@ -1,7 +1,7 @@
 ---
 type: leaf
 created: 2024/02/18_00:03:47
-updated: 2024/02/18_14:09:01
+updated: 2024/02/18_17:55:16
 tags:
   - insight
   - 메뉴아이콘
